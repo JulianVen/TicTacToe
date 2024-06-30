@@ -1,0 +1,3 @@
+# Ignorar archivos de descarga de npm
+node_modules/
+
